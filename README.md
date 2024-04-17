@@ -17,4 +17,6 @@ EB2 Dev - https://github.com/e2b-dev/awesome-ai-agents - Over 100 agents, many o
 
 7 prompt chains for AI agents - https://www.youtube.com/watch?v=QV6kaNFyoyQ&t=487s&ab_channel=IndyDevDan
 
+Ben Rich's memoir on Skunkworks - https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003
+
 
